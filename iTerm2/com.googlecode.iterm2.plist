@@ -358,6 +358,10 @@ Kubernetes Management:Restore Window Arrangement</string>
 	<true/>
 	<key>LoadPrefsFromCustomFolder</key>
 	<true/>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Library/Mobile Documents/com~apple~CloudDocs/Development/dotfiles/iTerm2</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{799, 448}</string>
 	<key>NSQuotedKeystrokeBinding</key>
 	<string></string>
 	<key>NSRepeatCountBinding</key>
@@ -399,6 +403,8 @@ Kubernetes Management:Restore Window Arrangement</string>
 		<key>TB Is Shown</key>
 		<integer>1</integer>
 	</dict>
+	<key>NSWindow Frame NSNavPanelAutosaveName</key>
+	<string>525 381 799 448 0 0 2560 1440 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>1777 431 570 467 0 0 2560 1440 </string>
 	<key>New Bookmarks</key>
@@ -4267,12 +4273,12 @@ Kubernetes Management:Restore Window Arrangement</string>
 		<key>screenFrame</key>
 		<string>{{0, 0}, {2560, 1440}}</string>
 		<key>topLeft</key>
-		<string>{81, 1111}</string>
+		<string>{1001, 675}</string>
 	</dict>
 	<key>NoSyncInstallationId</key>
 	<string>643CDF04-8B3A-4531-8353-F73B298A66A0</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>5</integer>
+	<integer>8</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
