@@ -117,5 +117,5 @@ setopt APPEND_HISTORY
 HISTFILE=${ZDOTDIR:-$HOME}/.zsh_history
 
 # alias
-alias godev='cd ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/Development/'
+alias godev='cd ~/Development/'
 alias ls='ls -l'
