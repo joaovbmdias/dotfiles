@@ -118,4 +118,4 @@ HISTFILE=${ZDOTDIR:-$HOME}/.zsh_history
 
 # alias
 alias godev='cd ~/Development/'
-alias ls='ls -l'
+alias ls='ls -la'
